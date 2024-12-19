@@ -1,0 +1,14 @@
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/bin/Debug/net9.0/AdventOfCode
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/bin/Debug/net9.0/AdventOfCode.deps.json
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/bin/Debug/net9.0/AdventOfCode.runtimeconfig.json
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/bin/Debug/net9.0/AdventOfCode.dll
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/bin/Debug/net9.0/AdventOfCode.pdb
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.AssemblyInfoInputs.cache
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.AssemblyInfo.cs
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.dll
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/refint/AdventOfCode.dll
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.pdb
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/AdventOfCode.genruntimeconfig.cache
+/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/Debug/net9.0/ref/AdventOfCode.dll

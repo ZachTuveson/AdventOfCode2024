@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {}
+  },
+  "projects": {
+    "/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/AdventOfCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+        "projectName": "AdventOfCode",
+        "projectPath": "/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/AdventOfCode.csproj",
+        "packagesPath": "/Users/fragileleaf/.nuget/packages/",
+        "outputPath": "/Users/fragileleaf/Documents/Coding/AdventOfCode/2024/AdventOfCode/AdventOfCode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fragileleaf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/fragileleaf/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
